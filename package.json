@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "hero-slider": "^3.2.0",
+    "localStorage": "^1.0.4",
+    "node-localstorage": "^3.0.5",
+    "react-datepicker": "^4.21.0",
+    "rsuite": "^5.45.0"
+  }
+}
